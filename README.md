@@ -1,2 +1,4 @@
-# frontend-devsnest
-Frontend THAs of all members of Team Focussed.
+![frontend-devsnest](https://socialify.git.ci/Team-Focussed/frontend-devsnest/image?description=1&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark)
+
+## Members:
+[KayDee](https://github.com/kaydee0502)
