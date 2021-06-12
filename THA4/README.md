@@ -5,6 +5,6 @@
 <br>
 
 > #### Done by:
-> [KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/THA%20Clock)
-
+> [KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/THA%20Clock) <br>
+>[DivineSoul](https://github.com/CodeBlooded-RahulMaurya/Devsnest-WebDev/tree/main/Day-04-CSS-Clock)
 
