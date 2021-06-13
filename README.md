@@ -2,5 +2,5 @@
 
 ## Members:
 [KayDee](https://github.com/kaydee0502) <br>
-[DivineSoul](https://github.com/CodeBlooded-RahulMaurya) <br>
+[DivineSoul](https://github.com/CodeBlooded-RahulMaurya) 
 [DepayanMondal](https://github.com/DepayanMondal)
