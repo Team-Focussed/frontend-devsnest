@@ -8,3 +8,5 @@
 
 > #### Done by:
 >[DivineSoul](https://github.com/CodeBlooded-RahulMaurya/Devsnest-WebDev/tree/main/Day-06-JS-Arrays) <br>
+>[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/DAY%206)<br>
+
