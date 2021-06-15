@@ -7,4 +7,6 @@
 [Sherl](https://github.com/aayushi221) <br>
 [Anmol](https://github.com/noob-anmol) <br>
 [Aaliya](https://github.com/Aaliya7516) <br>
+[Knshika](https://github.com/knshika)<br>
+
 
