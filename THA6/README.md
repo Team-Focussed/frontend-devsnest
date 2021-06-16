@@ -10,4 +10,5 @@
 >[DivineSoul](https://github.com/CodeBlooded-RahulMaurya/Devsnest-WebDev/tree/main/Day-06-JS-Arrays) <br>
 >[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/DAY%206)<br>
 >[KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/THA6)<br>
+>[shubbi](https://github.com/shubbi20/devsnest-project/tree/master/5.devsnest(Tha-6))<br>
 
