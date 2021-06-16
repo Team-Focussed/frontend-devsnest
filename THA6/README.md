@@ -11,4 +11,5 @@
 >[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/DAY%206)<br>
 >[KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/THA6)<br>
 >[shubbi](https://github.com/shubbi20/devsnest-project/tree/master/5.devsnest(Tha-6))<br>
+>[shunya](https://github.com/suresh26601/devsnest_THAs/tree/master/THA%20_Day_6)<br>
 
