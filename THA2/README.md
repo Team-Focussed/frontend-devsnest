@@ -12,4 +12,5 @@
 >[Sherl](https://github.com/aayushi221/Devsnest-Frontend/blob/main/day-2.html)<br>
 >[DepayanMondal](https://github.com/DepayanMondal/Devsnest-Frontend/tree/main/Business%20Letter)<br>
 >[Aman](https://github.com/aman-malviya/Devsnest-Frontend/tree/master/Day1%20%26%20Day2)<br>
+>[shubbi](https://github.com/shubbi20/devsnest-project/tree/master/1.practice(Tha-1%20and%202))<br>
 
