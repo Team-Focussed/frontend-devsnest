@@ -9,3 +9,4 @@
 > [username](Repo link) <br>
 > [shubbi](https://github.com/shubbi20/devsnest-project/tree/master/6.devsnest(Tha-7))<br>
 > [Depayan M](https://github.com/DepayanMondal/Devsnest-Frontend/tree/main/THA_day_7)<br>
+> [shunya](https://github.com/suresh26601/devsnest_THAs/tree/master/THA_Day_7)<br>
