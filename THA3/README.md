@@ -11,5 +11,5 @@
 >[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/Day-3)<br>
 >[DepayanMondal](https://github.com/DepayanMondal/Devsnest-Frontend/tree/main/Resume%20page)<br>
 >[Knshika](https://github.com/knshika/Devsnest-frontend/tree/main/basic%20html%2Bcss/2.%20cover%20letter%20(Day%203))<br>
->[Aman](https://github.com/aman-malviya/Devsnest-Frontend/tree/master/Day3)
->[shubbi](https://github.com/shubbi20/devsnest-project/tree/master/2.practice%20(Tha-3))
+>[Aman](https://github.com/aman-malviya/Devsnest-Frontend/tree/master/Day3)<br>
+>[shubbi](https://github.com/shubbi20/devsnest-project/tree/master/2.practice%20(Tha-3))<br>
