@@ -14,6 +14,7 @@
 > [Knshika](https://github.com/knshika/Devsnest-frontend/tree/main/Day%205%20Calculator)<br>
 > [Depayan M](https://github.com/DepayanMondal/Extra/tree/main/Calculator)<br>
 > [bigO](https://github.com/shubham7999/Devsnest-Frontend/tree/main/THA-5)<br>
+> [shubbi](https://github.com/shubbi20/devsnest-project/tree/master/4.devsnest(THA-5))<br>
 
 
 
