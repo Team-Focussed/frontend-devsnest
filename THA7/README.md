@@ -12,3 +12,5 @@
 >[Aaliya](https://github.com/Aaliya7516/DevsNest/tree/main/Web%20Development/Day-7-JS3-Object)<br>
 >[Knshika](https://github.com/knshika/Devsnest-frontend/tree/main/Day%207%20objects-js)<br>
 >[KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/THA7)<br>
+>[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/Day-7)<br>
+>
