@@ -12,3 +12,4 @@
 >  [Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/DAY-8)<br>
 >  [Aaliya](https://github.com/Aaliya7516/DevsNest/tree/main/Web%20Development/Day-8-JS5-Grids)<br>
 >  [Depayan M](https://github.com/DepayanMondal/Devsnest-Frontend/tree/main/100_days_css_challange46)<br>
+>  [shubbi](https://github.com/shubbi20/devsnest-project/tree/master/7.devsnest(Tha-8))<br>
