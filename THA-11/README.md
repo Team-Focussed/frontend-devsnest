@@ -7,3 +7,4 @@
 > #### Done by:
 >[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/DAY%2011)  <br>
 >[KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/THA11) <br>
+>[Depayan M](https://github.com/DepayanMondal/Devsnest-Frontend/tree/main/THA_day_11)<br>
