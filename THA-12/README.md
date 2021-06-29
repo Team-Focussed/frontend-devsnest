@@ -1,8 +1,8 @@
-# THA No.  [(---)](link)
+# THA No.  [(12)](link)
 
 ### THA task
 
 <br>
 
 > #### Done by:
->[Name](Repolink)  <br>
+>[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/day-12)  <br>
