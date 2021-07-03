@@ -1,7 +1,7 @@
 # THA No.  [(11) Quiz App](https://drive.google.com/file/d/1Uw71fhhR65Yh3NQlK6cVEJo5BmLX6_r8/view)
 
 ### THA task
-<img src = "https://drive.google.com/file/d/1Uw71fhhR65Yh3NQlK6cVEJo5BmLX6_r8/view" height = "300px" width = "300px"></img>
+<img src = "https://cdn.discordapp.com/attachments/852977126218924052/860859862598811658/d7444f5b-a2a9-44cb-97f1-2a96ac7dd3e8.jpg" height = "300px" width = "300px"></img>
 
 <br>
 
