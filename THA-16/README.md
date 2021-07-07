@@ -1,5 +1,5 @@
-# THA No.  [(16.1)](https://csb-9vj0n.netlify.app/) 
-# [(16.2)](https://csb-uoiio.netlify.app/)
+# THA No.  [(16.1)](https://csb-9vj0n.netlify.app/) [(16.2)](https://csb-uoiio.netlify.app/)
+
 
 ### THA task
 
