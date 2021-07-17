@@ -9,4 +9,6 @@
 >[Aaliya](https://github.com/Aaliya7516/DevsNest/tree/main/Web%20Development/Day-012-JS9-LocalStorage_%26_SyncAsync) <br>
 >[KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/Tha12) <br>
 >[DivineSoul](https://github.com/CodeBlooded-RahulMaurya/Devsnest-WebDev/tree/main/Day-12-ToDo-List) <br>
+>[Knshika](https://github.com/knshika/Devsnest-frontend/tree/main/Day%2012%20To%20do%20list)<br>
+>
 
