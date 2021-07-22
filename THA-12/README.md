@@ -10,5 +10,5 @@
 >[KayDee](https://github.com/kaydee0502/devsnest-frontend/tree/master/Tha12) <br>
 >[DivineSoul](https://github.com/CodeBlooded-RahulMaurya/Devsnest-WebDev/tree/main/Day-12-ToDo-List) <br>
 >[Knshika](https://github.com/knshika/Devsnest-frontend/tree/main/Day%2012%20To%20do%20list)<br>
->
+>[Shubya](https://github.com/suresh26601/devsnest_THAs/tree/master/THA_Day_12_todo)<br>
 
