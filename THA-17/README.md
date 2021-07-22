@@ -9,4 +9,4 @@
 >[Depayan M](https://codepen.io/Depayan-M/pen/OJmXNMv)<br>
 >[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/day%2017)<br>
 >[Knshika](https://github.com/knshika/Devsnest-frontend/tree/main/react-assignments%20Day(15-21)/src/Components/Day%2017)<br>
->
+>[Shunya](https://github.com/suresh26601/devsnest_THAs/tree/master/THA_Day_17)<br>
