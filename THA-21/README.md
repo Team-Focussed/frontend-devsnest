@@ -7,5 +7,5 @@
 > #### Done by:
 >[KayDee (hum first hum first)](https://github.com/kaydee0502/devsnest-frontend/tree/master/react%20thas/devsnest/src/Day21)  <br>
 >[Sherl](https://github.com/aayushi221/Devsnest-Frontend/tree/main/dontreact/src/day21)  <br>
->
+>[Shunya](https://github.com/suresh26601/devsnest_THAs/tree/master/THA_Day_21)<br>
 >
